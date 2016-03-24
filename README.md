@@ -4,7 +4,7 @@ This is a practice exercise to calculate all the combinations for a given amount
 
 # To run
 
-Say you want to get all the possible combination for the total 10 dollars, with the face value set 1,2 and 5
+Say you want to get all the possible combination for the total 6 dollars, with the face value set 1,2 and 5
 
 `sbt "run 6 1 2 5"`
 
